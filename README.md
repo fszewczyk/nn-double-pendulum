@@ -2,7 +2,7 @@
 <h1>
 Dynamics, Energy Conservation and Symmetries of a Double Pendulum: A Neural Networks Approach
 </h1>
-<h2><a href="https://drive.google.com/file/d/14V1u2Kvqlnv-0MzeLofCbsiMk2rm3kDs/view?usp=sharing)">Technical Report</a></h2>
+<h2><a href="https://drive.google.com/file/d/1FnvSYov1PfBL1MIxAL1j8pRlntj5yM5n/view?usp=sharing">Technical Report</a></h2>
 </div>
 
 This repository serves as a supplementary material for the lab project at University of Groningen. Here, you can find our code, models, results and additional figures.
