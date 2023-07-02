@@ -11,6 +11,6 @@ authors:
     given-names: "Michal"
 title: "Dynamics, Energy Conservation and Symmetries of a Double Pendulum: A Neural Networks Approach"
 version: 2.0.4
-doi: 10.5281/zenodo.8106360
+doi: 10.13140/RG.2.2.35940.14721
 date-released: 2023-07-02
 url: "https://github.com/fszewczyk/nn-double-pendulum"
