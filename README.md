@@ -2,7 +2,7 @@
 <h1>
 Dynamics, Energy Conservation and Symmetries of a Double Pendulum: A Neural Networks Approach
 </h1>
-<h2><a href="https://drive.google.com/file/d/1XuHXOV0hL6pQCc5kDzrVeldA8NkS-Jka/view?usp=sharing" target="_blank">Technical Report</a></h2>
+<h2><a href="https://www.researchgate.net/publication/371987660_Discovering_Dynamics_Conservation_Laws_and_Symmetries_Underlying_a_Double_Pendulum_System_A_Neural_Networks_Approach" target="_blank">Technical Report</a></h2>
 
 
 [![a](https://img.shields.io/badge/10.13140/RG.2.2.35940.14721-DOI-blue)](https://www.researchgate.net/publication/371987660_Discovering_Dynamics_Conservation_Laws_and_Symmetries_Underlying_a_Double_Pendulum_System_A_Neural_Networks_Approach)
