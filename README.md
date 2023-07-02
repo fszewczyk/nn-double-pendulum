@@ -4,7 +4,7 @@ Dynamics, Energy Conservation and Symmetries of a Double Pendulum: A Neural Netw
 </h1>
 <h2><a href="https://drive.google.com/file/d/1XuHXOV0hL6pQCc5kDzrVeldA8NkS-Jka/view?usp=sharing" target="_blank">Technical Report</a></h2>
 
-[![DOI](https://zenodo.org/badge/660376050.svg)](https://zenodo.org/badge/latestdoi/660376050)
+![a](https://img.shields.io/badge/10.13140/RG.2.2.35940.14721-DOI-blue)
   
 </div>
 
