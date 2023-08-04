@@ -21,4 +21,5 @@ This repository serves as a supplementary material for the lab project at Univer
 4. `tuning` - supplementary results for the hyperparameter tuning
 
 [Result video](https://www.youtube.com/watch?v=lYlx5KUT3to&feature=youtu.be)
+
 ![doublepend(2)](https://github.com/fszewczyk/nn-double-pendulum/assets/60960225/a0d69218-28c4-4449-ab48-4a674768f303)
