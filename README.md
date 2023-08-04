@@ -20,5 +20,5 @@ This repository serves as a supplementary material for the lab project at Univer
 3. `result` - all error and performance plots for each model
 4. `tuning` - supplementary results for the hyperparameter tuning
 
-https://github.com/fszewczyk/nn-double-pendulum/assets/60960225/5263940f-127f-4293-ad66-ef6cd5549203
-
+[Result video](https://www.youtube.com/watch?v=lYlx5KUT3to&feature=youtu.be)
+![doublepend(2)](https://github.com/fszewczyk/nn-double-pendulum/assets/60960225/a0d69218-28c4-4449-ab48-4a674768f303)
